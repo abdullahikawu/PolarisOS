@@ -28,7 +28,7 @@
     "@bubenguru/koa-response-cache": "^0.1.1",
     "archiver": "^2.1.1",
     "babel-polyfill": "^6.26.0",
-    "buefy": "^0.6.5",
+    "buefy": "^0.9.2",
     "bulma": "^0.5.3",
     "bulma-steps": "git+https://git@github.com/Cocophotos/bulma-steps.git#4929a5e3be7c55ce02302c24351d28d0d7499be8",
     "cas": "0.0.3",
